@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="menu_pengaturan">pengaturan</string>
+    <string name="menu_galeri">galeri</string>
+    <string name="menu_berkas">berkas</string>
+    <string name="menu_pesan">pesan</string>
+    <string name="menu_kontak">kontak</string>
+</resources>

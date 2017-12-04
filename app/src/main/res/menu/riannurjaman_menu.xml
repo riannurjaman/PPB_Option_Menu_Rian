@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/kontak"
+        android:orderInCategory="10"
+        android:title="@string/menu_kontak"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/pesan"
+        android:orderInCategory="10"
+        android:title="@string/menu_pesan"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/berkas"
+        android:orderInCategory="10"
+        android:title="@string/menu_berkas"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/galeri"
+        android:orderInCategory="10"
+        android:title="@string/menu_galeri"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/pengaturan"
+        android:orderInCategory="10"
+        android:title="@string/menu_pengaturan"
+        app:showAsAction="never"/>
+
+</menu>
